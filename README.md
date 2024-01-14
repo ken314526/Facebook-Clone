@@ -41,7 +41,7 @@ To get started with the project, follow these instructions.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ken314526/facebook-clone.git`
+1. Clone the repository: `git clone https://github.com/ken314526/Facebook-Clone.git`
 1. Navigate to the project directory: `cd facebook-clone`
 1. Install dependencies:
 
